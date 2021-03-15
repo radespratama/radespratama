@@ -15,8 +15,6 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=radespratama&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=radespratama)
-
 ### Another pin project
 
 <details>
