@@ -39,7 +39,10 @@
   <a href="https://github.com/radespratama/slack-clone-mini-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=slack-clone-mini-project">
   </a>
-   <a href="https://github.com/radespratama/whatsapp-clone-mini-project">
+  <a href="https://github.com/radespratama/discord-clone-mini-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=discord-clone-mini-project">
+  </a>
+  <a href="https://github.com/radespratama/whatsapp-clone-mini-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=whatsapp-clone-mini-project">
   </a>
 </details>
@@ -64,5 +67,3 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=devlits-serviceCourse">
     </a>
 </details>
-
-<h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
