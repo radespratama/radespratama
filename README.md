@@ -49,19 +49,4 @@
     <a href="https://github.com/radespratama/GoExplore-Adminpage">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=GoExplore-Adminpage">
     </a>
-    <a href="https://github.com/radespratama/devlits-apigateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=devlits-apigateway">
-    </a>
-    <a href="https://github.com/radespratama/devlits-serviceUser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=devlits-serviceUser">
-    </a>
-    <a href="https://github.com/radespratama/devlits-serviceMedia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=devlits-serviceMedia">
-    </a>
-    <a href="https://github.com/radespratama/devlits-serviceOrder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=devlits-serviceOrder">
-    </a>
-    <a href="https://github.com/radespratama/devlits-serviceCourse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radespratama&repo=devlits-serviceCourse">
-    </a>
 </details>
