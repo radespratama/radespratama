@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Rades%20Pratama&description=Hi,%20i%27m%20a%20web%20developer%20and%20graphic%20%20designer%20.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/56097757?v=4&backgroundColor=%23ecf0f1&instagram=radespratamaa&linkedin=Putu%20Rades%20Pratama&github=radespratama&twitter=radespratamaa&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Rades%20Pratama&description=Hi,%20i%27m%20a%20web%20developer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/56097757?v=4&backgroundColor=%23ecf0f1&instagram=radespratamaa&linkedin=Putu%20Rades%20Pratama&github=radespratama&twitter=radespratamaa&pattern=leaf&colorPattern=%23eaeaea)
 
 🌱 I’m currently learning 
   - Javascript
