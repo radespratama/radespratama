@@ -1,7 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Rades%20Pratama&description=Yahuu,%20i%27m%20a%20web%20developer.%20Nice%20to%20meet%20you%20dude%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/56097757?v=4&backgroundColor=%23ecf0f1&instagram=radespratamaa&linkedin=Putu%20Rades%20Pratama&github=radespratama&colorPattern=%23eaeaea)
 
 <div align="center">
-  Hi dude 👋, I'm Rades Pratama, I'm a prefer in frontend developer, but will try to explore everything!Q
+  Hi dude 👋, I'm Rades Pratama, I'm a prefer in frontend developer, but will try to explore everything!
 
   <br><br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
