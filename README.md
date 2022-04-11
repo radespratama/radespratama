@@ -8,11 +8,9 @@
 <!-- Your badges -->
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-Putu_Rades_Pratama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/radespratama/)
-[![Telegram](https://img.shields.io/badge/-@radespratama-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/radespratama)
-[![HackerRank](https://img.shields.io/badge/-radespratama-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/radespratamaa)
-[![Instagram](https://img.shields.io/badge/-radespratamaa-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/radespratamaa/)
-[![Gmail](https://img.shields.io/badge/-radespratama-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radespratamaa@gmail.com)
+[![Telegram](https://img.shields.io/badge/radespratama%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/radespratama)
+[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radespratamaa/)
+[![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:radespratamaa@gmail.com)
 
 </div>
 
