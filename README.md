@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/radespratama/radespratama/blob/main/static/Banner.jpg" />
-  <h2 align="center"> 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  <h2 align="center"> 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h2>
   <br />
 </div>
 
