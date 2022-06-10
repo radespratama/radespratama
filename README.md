@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/radespratama/radespratama/blob/main/static/Banner.jpg" />
-  <br />
 </div>
+<br />
 
 Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software Developer and the only one developer in [DevPlayhouse](https://github.com/DevPlayhouse). I am prefer in Front-End Development 👏, but will try to explore everything!
 
@@ -11,7 +11,7 @@ Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software De
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
 - ⚡ Fun fact: I like gardening start from planting fruits and ornamental plants.
 
-## `Tech stack 🚀`
+## Tech stack 🚀
 
 <br>
 <div align="left">
@@ -30,9 +30,8 @@ Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software De
 
 <br />
 
-### `Reach me`
+### Reach me
+
 [![Telegram](https://img.shields.io/badge/radespratama%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/radespratama)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radespratamaa/)
 [![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:radespratamaa@gmail.com)
-
-
