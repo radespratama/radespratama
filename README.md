@@ -9,7 +9,7 @@ Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software De
 - 🌱 I'm currently learning about Automation Testing, CI/CD, Remix JS, Typescript, Hapi JS, and Express JS.
 - 💻 Most used line of code `git clone`
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
-- ⚡ Fun fact: I like gardening start from planting fruits and ornamental plants.
+- ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants.
 
 ## Tech stack 🚀
 
