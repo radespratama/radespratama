@@ -5,7 +5,7 @@
 
 Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software Developer and the only developer in [DevPlayhouse](https://github.com/DevPlayhouse). I prefer Front-End Development 👏, but I will try to explore everything!
 
-- 🔭 I'm currently working for myself in [@devplayhouse](https://github.com/DevPlayhouse)
+- 🔭 I'm currently working for myself in [devplayhouse](https://github.com/DevPlayhouse)
 - 🌱 I'm currently learning about Automation Testing, CI/CD, Remix JS, Typescript, Hapi JS, and Express JS.
 - 💻 Most used line of code `git clone`
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
