@@ -33,5 +33,4 @@ Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software De
 ### Reach me
 
 [![Telegram](https://img.shields.io/badge/radespratama%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/radespratama)
-[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radespratamaa/)
 [![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:radespratamaa@gmail.com)
