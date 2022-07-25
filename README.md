@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://github.com/radespratama/radespratama/blob/main/static/Banner.jpg" />
+  <img src="https://github.com/radespratama/radespratama/blob/main/static/Banner.png" />
 </div>
 <br />
 
-Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software Developer and the only one developer in [DevPlayhouse](https://github.com/DevPlayhouse). I am prefer in Front-End Development 👏, but will try to explore everything!
+Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software Developer and the only developer in [DevPlayhouse](https://github.com/DevPlayhouse). I prefer Front-End Development 👏, but I will try to explore everything!
 
 - 🔭 I'm currently working for myself in @devplayhouse
-- 🌱 I'm currently learning about React, Typescript, Remix Js, Nest JS, Express
+- 🌱 I'm currently learning about Automation Testing, CI/CD, Remix JS, Typescript, Hapi JS, and Express JS.
 - 💻 Most used line of code `git clone`
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
-- ⚡ Fun fact: I like gardening start from planting fruits and ornamental plants.
+- ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants.
 
 ## Tech stack 🚀
 
@@ -20,6 +20,7 @@ Hi, I am Putu Rades Pratama 😃 from Bali, Indonesia. I am a Junior Software De
   <img src="https://img.shields.io/badge/PWA-F6C915?style=for-the-badge&logo=pwa&logoColor=black"/>
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/remix%20js-%23000000?&style=for-the-badge&logo=remix&logoColor=white"/>
 </div>
 <br>
 <div align="left">
