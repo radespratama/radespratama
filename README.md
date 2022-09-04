@@ -18,7 +18,7 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/dart%20-%230EA5E9.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php%20-%234338CA.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php%20-%234338CA.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/PWA-F6C915?style=for-the-badge&logo=pwa&logoColor=black"/>
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
