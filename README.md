@@ -6,7 +6,7 @@
 Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in [DevPlayhouse](https://github.com/DevPlayhouse). I prefer Front-End Development 👏, but I will try to explore everything!
 
 - 🔭 I'm currently working for myself in [devplayhouse](https://github.com/DevPlayhouse)
-- 🌱 I'm currently learning about Remix JS, Typescript, Dart and Flutter.
+- 🌱 I'm currently learning about Remix JS, Typescript, and Nest JS.
 - 💻 Most used line of code `git clone`
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
 - ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants.
@@ -17,14 +17,13 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
 <div align="left">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart%20-%230EA5E9.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/php%20-%234338CA.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/PWA-F6C915?style=for-the-badge&logo=pwa&logoColor=black"/>
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/remix%20js-%234F1F03?&style=for-the-badge&logo=remix&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel-%23F9322C?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flutter-%230EA5E9?&style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs-%2315803D?&style=for-the-badge&logo=nestjs&logoColor=white"/>
 </div>
 <br>
 <div align="left">
