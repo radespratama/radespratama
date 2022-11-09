@@ -7,7 +7,7 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
 
 - 🔭 I'm currently working for myself in [devplayhouse](https://github.com/DevPlayhouse)
 - 🌱 I'm currently learning about Remix JS, Typescript, and Nest JS.
-- 💻 Most used line of code `git clone`
+- 💻 Most used line of code `git clone` (∪.∪ )...zzz
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
 - ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants.
 
