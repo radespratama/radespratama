@@ -3,7 +3,7 @@
 </div>
 <br />
 
-Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in [DevPlayhouse](https://github.com/DevPlayhouse). Interest in Front-End and Back-End Development 👏, but I will try to explore everything!
+Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in DevPlayhouse, but I will try to explore everything! 👌
 
 - 🌱 I'm currently learning about Remix JS, Typescript, Express JS and Nest JS.
 - 💻 Most used line of code `git clone` (∪.∪ )...zzz
