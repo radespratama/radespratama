@@ -5,7 +5,7 @@
 
 Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in [DevPlayhouse](https://github.com/DevPlayhouse), but I will try to explore everything! 👌
 
-- 🌱 I'm currently learning about Remix JS, Typescript, Express JS and Nest JS.
+- 🌱 I'm currently learning about Clean Architecture, Automation Testing, Remix JS, and Nest JS.
 - 💻 Most used line of code `git clone` (∪.∪ )...zzz
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
 - ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants 
@@ -23,6 +23,7 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
   <img src="https://img.shields.io/badge/remix%20js-%234F1F03?&style=for-the-badge&logo=remix&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel-%23F9322C?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/nestjs-%2315803D?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/expressjs-%23F72585?&style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 <br>
 <div align="left">
