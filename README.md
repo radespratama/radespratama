@@ -5,7 +5,7 @@
 
 Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in [DevPlayhouse](https://github.com/DevPlayhouse), but I will try to explore everything! 👌
 
-- 🌱 I'm currently learning about Clean Architecture, Automation Testing, Remix JS, and Express JS.
+- 🌱 I'm currently learning about Clean Architecture, Automation Testing, and Express JS.
 - 💻 Most used line of code `git clone` (∪.∪ )...zzz
 - ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
 - ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants 
@@ -19,7 +19,6 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
   <img src="https://img.shields.io/badge/PWA-F6C915?style=for-the-badge&logo=pwa&logoColor=black"/>
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/remix%20js-%234F1F03?&style=for-the-badge&logo=remix&logoColor=white"/>
   <img src="https://img.shields.io/badge/expressjs-%2312848C?&style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 <br>
