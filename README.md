@@ -35,11 +35,11 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
 
 </div>
 <br>
-<div align="left">
+<!--<div align="left">
 <a href="https://github.com/radespratama/radespratama">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=radespratama&show_icons=true&line_height=27&count_private=true&include_all_commits=truetitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RadesPratama GitHub Stats" />
 </a>
-</div>
+</div>--!>
 
 ### Reach me
 
