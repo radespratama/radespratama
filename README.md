@@ -6,7 +6,7 @@
 Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in DevPlayhouse. I prefer Front-End Development but I will try to explore everything! 😉👌
 
 -   🌱 I'm currently learning about Clean Architecture, Automation Testing, and Back-End Development
--   💻 Most used line of code `git clone` :v
+-   💻 Most used line of code `git clone`
 -   ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
 -   ⚡ Fun fact: I like gardening starting from planting fruits and ornamental plants
 
@@ -17,7 +17,7 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
