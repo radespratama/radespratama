@@ -35,6 +35,8 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
 ![Prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-16679A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-1D4ED8?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express-2DA995?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
