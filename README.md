@@ -3,9 +3,9 @@
 </div>
 <br />
 
-Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in DevPlayhouse. I prefer Front-End Development but I will try to explore everything! 😉👌
+Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in DevPlayhouse. I prefer Front-End Development but I will try to explore everything! 😉👌 
 
--   🌱 I'm currently learning about Clean Architecture, Automation Testing, and Back-End Development
+-   🌱 I'm currently learning about Clean Architecture, Automation Testing, and Mobile Development
 -   🏗 Now I'm working as a Front End Developer at [BTW Edutech](https://www.btwedutech.com)
 -   💻 Most used line of code `git clone`
 -   ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
@@ -33,6 +33,7 @@ Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software De
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/drizzle-000?style=for-the-badge&logo=drizzle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-16679A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-1D4ED8?style=for-the-badge&logo=php&logoColor=white)
