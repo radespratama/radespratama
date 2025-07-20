@@ -47,6 +47,7 @@ As the only developer at **DevPlayhouse**, I get to wear many hats and constantl
 ![ExpressJS](https://img.shields.io/badge/express-2DA995?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23017D9C.svg?style=for-the-badge&logo=go&logoColor=#00C7B7)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
