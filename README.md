@@ -3,13 +3,20 @@
 </div>
 <br />
 
-Hi, I am Putu Rades Pratama 😎 from Bali, Indonesia. I am a Junior Software Developer and the only developer in DevPlayhouse. I prefer Front-End Development, but I will try to explore everything! 😉👌 
+Hello there! I'm Putu Rades Pratama 👋, a software developer from the beautiful island of Bali.
 
--   🌱 I'm currently learning about Clean Architecture, Automation Testing, and Back End Development
--   🏗 Now I'm working with my team in [Wedya Pancer Dev](https://github.com/WedyaPancerDev)
--   💻 Most used line of code `git clone`
--   ✨ Ask me about anything [here](https://github.com/radespratama/radespratama/discussions/1)
--   ⚡ Fun fact: I like gardening, starting from planting fruits and ornamental plants
+My journey began with a love for Front-End, but my curiosity for how things work end-to-end has driven me to become a Full-Stack Developer. I'm passionate about building scalable applications and am now diving deep into the worlds of **Software Architecture** and **Cloud Computing** to bring ideas to life.
+
+As the only developer at **DevPlayhouse**, I get to wear many hats and constantly learn.
+
+- 🚀 Currently leveling up my skills in:
+  - Back-End Engineering & API Design
+  - Scalable System Architecture (like Clean Architecture)
+  - Automation Testing & CI/CD
+  - Cloud Deployment
+- 🤝 Proudly building with my friends at [Wedya Pancer Dev](https://github.com/WedyaPancerDev).
+- 💬 Ask me about web development, Bali, or anything in between [here](https://github.com/radespratama/radespratama/discussions/1).
+- 🪴 Fun fact: I find joy in debugging code and cultivating my garden.
 
 ## Tech stack 🚀
 
