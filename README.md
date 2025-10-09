@@ -14,7 +14,6 @@ As the only developer at **DevPlayhouse**, I get to wear many hats and constantl
   - Scalable System Architecture (like Clean Architecture)
   - Automation Testing & CI/CD
   - Cloud Deployment
-- 🤝 Proudly building with my friends at [Wedya Pancer Dev](https://github.com/WedyaPancerDev).
 - 💬 Ask me about web development, Bali, or anything in between [here](https://github.com/radespratama/radespratama/discussions/1).
 - 🪴 Fun fact: I find joy in debugging code and cultivating my garden.
 
