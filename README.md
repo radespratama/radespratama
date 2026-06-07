@@ -5,16 +5,16 @@
 
 Hello there! I'm Putu Rades Pratama 👋, a software developer from the beautiful island of Bali.
 
-My journey began with a love for Front-End, but my curiosity for how things work end-to-end has driven me to become a Full-Stack Developer. I'm passionate about building scalable applications and am now diving deep into the worlds of **Software Architecture** and **Cloud Computing** to bring ideas to life.
+My journey began with a love for Front-End, but my curiosity for how things work end-to-end has driven me to become a Full-Stack Developer. I'm passionate about building scalable, security-aware applications and am now diving deep into **AI Engineering**, and **Cybersecurity** to bring ideas to life.
 
-As the only developer at **DevPlayhouse**, I get to wear many hats and constantly learn.
+Currently operating under my personal brand **Build By Rades**, where I build products end-to-end — from architecture to deployment.
 
 - 🚀 Currently leveling up my skills in:
-  - Back-End Engineering & API Design
-  - Scalable System Architecture (like Clean Architecture)
-  - Automation Testing & CI/CD
-  - Cloud Deployment
-- 💬 Ask me about web development, Bali, or anything in between [here](https://github.com/radespratama/radespratama/discussions/1).
+  - AI Agent Development & LLM Integration
+  - Cybersecurity & Penetration Testing
+  - Scalable System Architecture (DevSecOps)
+  - Cloud Deployment & Server Hardening
+- 💬 Ask me about web development, security, Bali, or anything in between [here](https://github.com/radespratama/radespratama/discussions/1).
 - 🪴 Fun fact: I find joy in debugging code and cultivating my garden.
 
 ## Tech stack 🚀
@@ -48,6 +48,7 @@ As the only developer at **DevPlayhouse**, I get to wear many hats and constantl
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%23017D9C.svg?style=for-the-badge&logo=go&logoColor=#00C7B7)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Burp Suite](https://img.shields.io/badge/burp_suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 
@@ -61,3 +62,4 @@ As the only developer at **DevPlayhouse**, I get to wear many hats and constantl
 [![Telegram](https://img.shields.io/badge/radespratama%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/radespratama)
 [![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:radespratamaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%234A3335.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radespratama)
+[![Build By Rades](https://img.shields.io/badge/buildbyrades.com-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://buildbyrades.com)
