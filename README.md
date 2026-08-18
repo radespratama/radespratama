@@ -5,7 +5,7 @@
 
 Hello there! I'm Putu Rades Pratama 👋, a software developer from the beautiful island of Bali.
 
-My journey began with a love for Front-End, but my curiosity for how things work end-to-end has driven me to become a Full-Stack Developer. I'm passionate about building scalable, security-aware applications and am now diving deep into **AI Engineering**, and **Cybersecurity** to bring ideas to life ( ,,⩌'︿'⩌,,).
+My journey began with a love for Front-End, but my curiosity for how things work end-to-end has driven me to become a Full-Stack Developer. I'm passionate about building scalable, security-aware applications and am now diving deep into **Backend Engineering**, and **Cybersecurity** to bring ideas to life ( ,,⩌'︿'⩌,,).
 
 Currently operating under my personal brand **Build By Rades**, where I build products end-to-end — from architecture to deployment.
 
